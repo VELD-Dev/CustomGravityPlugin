@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Custom Gravity",
+	"Description": "Allows you to make planets or local gravity areas.",
+	"Category": "Physics",
+	"CreatedBy": "VELD-Dev",
+	"CreatedByURL": "https://github.com/VELD-Dev/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CustomGravity",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
